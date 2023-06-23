@@ -5,7 +5,7 @@
 ![YOLOv5](https://img.shields.io/badge/YOLOv5-v5.0%2B-orange)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 
-This repository contains the code and resources for training a vehicle detection model using YOLOv5 and a custom dataset. The goal of this project is to detect and localize vehicles in images or videos, enabling various applications such as traffic monitoring, object tracking, and autonomous driving.
+This repository contains the code and resources for training a Vehicle detection model using YOLOv5 and a custom dataset. The goal of this project is to detect and localize vehicles in images or videos, enabling various applications such as traffic monitoring, object tracking, and autonomous driving.
 
 ## Table of Contents
 
